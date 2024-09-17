@@ -1,6 +1,6 @@
 import Image from "next/image";
 import React, { useState } from "react";
-import Simone1 from "@/assets/Simone1.jpg";
+import Simone1 from "@/assets/simone1.jpg";
 import Button from "../Button";
 import Modal from "../Modal";
 
